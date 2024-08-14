@@ -28,12 +28,6 @@ O número de acidentes por mês e semestre.
 A evolução do número de vítimas ao longo do tempo.
 Comparação do período anterior e posterior à desativação dos radares.
 
-Gráficos
-Aqui estão alguns gráficos que ilustram essas tendências:
-
-Gráficos de Linha mostrando a evolução do número de acidentes, veículos envolvidos e vítimas por mês e por semestre.
-
-
 Modelo Preditivo
 Para prever o número de acidentes em 2024, usei o modelo SARIMA, que é adequado para séries temporais com sazonalidade. Após experimentar diferentes combinações de parâmetros, encontrei uma configuração que oferecia o melhor ajuste.
 
